@@ -1,4 +1,10 @@
-### Hi there 👋
+```cs
+public void SayHello()
+{
+	Console.WriteLine("Hello, everyone!👋");
+}
+```
+
 
 <!--
 **dotnet-programmer/dotnet-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
